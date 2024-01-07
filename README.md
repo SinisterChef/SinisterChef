@@ -10,7 +10,7 @@ Over 14 years of web design experience including: strategy, research, brand buil
 * 🖥️  See my portfolio at [kyleobrien.design](http://kyleobrien.design)
 * ✉️  You can contact me at [hello@kyleobrien.design](mailto:hello@kyleobrien.design)
 * 🧠  I'm currently learning React, Node.js and setting up my own Homelab
-* ⚡  Much like my commitment for quality digital UX I like to strive for quality UX with food also. Specifically Pizza, if you ever want to discuss dough, tomatoes, olive oil, ect. Hit me up. We will become friends.
+* ⚡  Much like my commitment for quality digital UX I like to strive for quality UX with food also. Specifically Pizza, if you ever want to discuss dough, tomatoes, olive oil, ect. Hit me up, we will become friends.
 
 ### Skills
 
