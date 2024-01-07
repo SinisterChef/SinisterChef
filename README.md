@@ -1,7 +1,6 @@
 Hi 🍕 My name is Kyle O'Brien
 =============================
-
-Frontend/UX web developer and designer
+FRONT-END DEVELOPER/UX DESIGNER
 --------------------------------------
 
 I have over 10 years of professional web developer and designer experience.
