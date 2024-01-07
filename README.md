@@ -1,4 +1,4 @@
-Hi 👋 My name is Kyle O'Brien
+Hi 🍕 My name is Kyle O'Brien
 =============================
 
 Frontend/UX web developer and designer
