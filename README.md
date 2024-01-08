@@ -7,7 +7,7 @@ Over 14 years of web design experience including: strategy, research, brand buil
 
 
 * 🌍  I'm based in Cincinnati, Ohio
-* 🖥️  See my portfolio at [kyleobrien.design](http://kyleobrien.design)
+* 🖥️  See my portfolio at [kyleobrien.design](https://www.kyleobrien.design/?utm_source=github&utm_medium=portfolio_body_link&utm_campaign=new_job_2024)
 * ✉️  You can contact me at [hello@kyleobrien.design](mailto:hello@kyleobrien.design)
 * 🧠  I'm currently learning React, Node.js and setting up my own Homelab
 * ⚡  Much like my commitment for quality digital UX I like to strive for quality UX with food also. Specifically Pizza, if you ever want to discuss dough, tomatoes, olive oil, ect. Hit me up, we will become friends.
